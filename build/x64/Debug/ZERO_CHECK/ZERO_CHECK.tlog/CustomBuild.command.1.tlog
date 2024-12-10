@@ -1,0 +1,10 @@
+^C:\USERS\LORVENTON\CLIONPROJECTS\SECOND_LAB_AP\BUILD\CMAKEFILES\FD203F4215FD9167634D0925532C96BE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lorventon/CLionProjects/second_lab_AP -BC:/Users/Lorventon/CLionProjects/second_lab_AP/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Lorventon/CLionProjects/second_lab_AP/build/second_lab_AP.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

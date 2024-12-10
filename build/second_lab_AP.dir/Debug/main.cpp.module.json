@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "second_lab_AP.dir\\Debug\\main.obj",
+            "outputs": [
+                "C:\\Users\\Lorventon\\CLionProjects\\second_lab_AP\\build\\second_lab_AP.dir\\Debug\\vc143.pdb",
+                "second_lab_AP.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/CMakeFiles/second_lab_AP.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/CMakeFiles/INSTALL.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/CMakeFiles/INSTALL.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googlemock/CMakeFiles/gmock.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googlemock/CMakeFiles/gmock_main.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googlemock/CMakeFiles/INSTALL.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googletest/CMakeFiles/gtest.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googletest/CMakeFiles/gtest_main.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googletest/CMakeFiles/INSTALL.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/googletest/googletest/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/tests/CMakeFiles/run_tests.dir
+C:/Users/Lorventon/CLionProjects/second_lab_AP/build/tests/CMakeFiles/INSTALL.dir

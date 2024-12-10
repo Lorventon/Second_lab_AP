@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "run_tests.dir\\Debug\\Tests.obj",
+            "outputs": [
+                "C:\\Users\\Lorventon\\CLionProjects\\second_lab_AP\\build\\tests\\run_tests.dir\\Debug\\vc143.pdb",
+                "run_tests.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
