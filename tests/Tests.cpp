@@ -3,9 +3,7 @@
 #include <string>
 #include <regex>
 
-// Прототип функции
 bool isValidMacAddress(const std::string& mac) {
-    // Регулярное выражение для проверки только одного типа разделителя
     std::regex macRegex("^([0-9a-fA-F]{2}(:[0-9a-fA-F]{2}){5}|[0-9a-fA-F]{2}(-[0-9a-fA-F]{2}){5})$");
     return std::regex_match(mac, macRegex);
 }
